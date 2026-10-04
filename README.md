@@ -4,7 +4,7 @@ Projeto em Unity de um carro coletando cones brilhantes em um estacionamento not
 
 Versão unity ultilizada: 6.6(6000.6.2f1)
 
-inputs da movimentação referentes ao script "playercontroller" foram alterados, de forma a criar um movimento fluído ao veículo. O mapa foi criado inteiramente dentro do projeto da unity.
+inputs da movimentação referentes ao script "playercontroller" foram alterados, de forma a impor um movimento fluído ao veículo(player). Adicionais como mapa, iluminação e outros objetos foram criados inteiramente dentro do projeto da unity. O link referente ao modelo da asset store será disponibilizado abaixo.
 
 [Jogar no Unity Play](https://play.unity.com/en/games/640fdeca-75c8-48f2-b7e2-ce78215a9f1d/roll-a-car-lucas-falcao)
 
